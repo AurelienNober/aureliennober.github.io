@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sea to Peak 2022"
+title:  "Sea to Peak 2022 - FR"
 date:   2022-08-08 19:17:20 +0200
 categories: bikepacking
 ---
@@ -289,5 +289,5 @@ En conclusion, cette épreuve était une super expérience ou j'ai pris énormé
 <a href="/assets/images/saintveran.jpg" style="display: block;">
 <img src="/assets/images/saintveran.jpg" alt="saintveran" width="400px"/>
 </a>
-<em>L’instigatrice de tout ca lorsqu’elle m’a parlé du gravelman Paris en 2020 - crédits @Seb Morin boostcycle</em>
+<em>L’instigatrice de tout ca lorsqu’elle m’a parlé du gravelman Paris en 2020 - crédits <a href="https://www.boostcycles.com/">@Seb Morin</a></em>
 </p>
