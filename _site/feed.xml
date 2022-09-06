@@ -1,17 +1,303 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-08T19:19:16+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Some stuff</title><subtitle>Some shit</subtitle><entry><title type="html">Sea to Peak 2022</title><link href="http://localhost:4000/bikepacking/2022/08/08/sea-to-peak-2022.html" rel="alternate" type="text/html" title="Sea to Peak 2022" /><published>2022-08-08T19:17:20+02:00</published><updated>2022-08-08T19:17:20+02:00</updated><id>http://localhost:4000/bikepacking/2022/08/08/sea-to-peak-2022</id><content type="html" xml:base="http://localhost:4000/bikepacking/2022/08/08/sea-to-peak-2022.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-06T23:51:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Some stuff</title><subtitle>Some shit</subtitle><entry><title type="html">Sea to Peak 2022</title><link href="http://localhost:4000/bikepacking/2022/08/08/sea-to-peak-2022.html" rel="alternate" type="text/html" title="Sea to Peak 2022" /><published>2022-08-08T19:17:20+02:00</published><updated>2022-08-08T19:17:20+02:00</updated><id>http://localhost:4000/bikepacking/2022/08/08/sea-to-peak-2022</id><content type="html" xml:base="http://localhost:4000/bikepacking/2022/08/08/sea-to-peak-2022.html"><![CDATA[<p>En juillet 2022 j’ai eu la chance de participer à la <a href="https://erminig.cc/epreuves/la-sea-to-peak/">sea to peak</a> et je souhaitais faire ce petit retour d’expérience pour faire connaître cette épreuve, permettre à ceux qui veulent de savoir si elle correspond à leurs attentes et pourquoi pas les aider à s’y préparer.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/logo_sea_to_peak.jpg" style="display: block;">
+<img src="/assets/images/logo_sea_to_peak.jpg" alt="logo_sea_to_peak" width="200px" />
+</a>
+</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>La sea to peak est une épreuve d’ultra distance bikepacking/vtt aventure de 2100 kms de la Pointe de Corsen (Finistère) à Saint Véran (Hautes Alpes). Les participants sont en autonomie, ils ne reçoivent pas d’aide extérieure de leur famille ou de leurs amis (mais peuvent tout à fait s’alimenter dans des commerces ou se reposer dans des gîtes/hôtels). La trace de la sea to peak est d’après komoot (et vérifiée grosso modo sur le terrain) composée de:</p>
+<ul>
+  <li>45% d’asphalte</li>
+  <li>45% de chemins</li>
+  <li>10% de sentiers</li>
+</ul>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>Cette épreuve n’est pas une course, il n’y a rien à gagner au bout, à part peut être la fierté de s’être dépassé.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<h1 id="comment-jen-suis-arrivé-à-minscrire">Comment j’en suis arrivé à m’inscrire?</h1>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>Ma pratique du vélo depuis l’adolescence est une pratique vtt loisir. J’ai connu le monde de “l’ultra distance bikepacking” grâce à Golvine (ma compagne) qui avait vu ce genre d’épreuves sur instagram il y a deux ans. Ce qui a attiré mon attention, c’est surtout la perspective “aventure”. A part le vélo je fais beaucoup de randos, bivouac etc…</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="bikepacking" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>J’ai commencé par trois épreuves de 350kms début 2021, sur 2 jours <a href="https://www.gravelmanseries.com">Gravelman</a>:</p>
+<ul>
+  <li>Paris Nord - route</li>
+  <li>Terres noires - gravel</li>
+  <li>Paris Deauville - gravel</li>
+</ul>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/vintage.jpg" style="display: block;">
+<img src="/assets/images/vintage.jpg" alt="vintage" width="400px" />
+</a>
+<em>Mon vélo de ville pour mon premier Gravelman</em>
+</p>
+
+<p>L’été 2021, assez naïvement, je me suis inscrit au <a href="https://www.facebook.com/TourMassifVosgien/">Tour du Massif Vosgien</a> 1000 kms vtt. J’en ai vraiment bavé mais j’ai adoré l’expérience. Ceci dit, j’ai eu des soucis aux nerfs de la main pendant quelques mois (j’y reviendrai). Quand ma main s’est remise, j’ai commencé à regarder les épreuves similaires, avec cette fois dans l’idée de faire plutôt une traversée qu’une boucle.</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/deauville.jpg" style="display: block;">
+<img src="/assets/images/deauville.jpg" alt="deauville" width="400px" />
+</a>
+<em>Les épreuves sont aussi l'occasion de rencontrer d’autres participants comme ici sur le Paris-Deauville</em>
+</p>
+
+<p>Les deux épreuves “phares” en France me semblaient être la Sea To Peak et la French Divide (mais j’en oublie certainement d’autres!). Étant plus attiré par la trace de la Sea To Peak, je me suis inscrit début décembre.</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/gap.jpg" style="display: block;">
+<img src="/assets/images/gap.jpg" alt="gap" width="400px" />
+</a>
+<em>Une 1ere expérience offroad dans le décor incroyable des Hautes-Alpes - crédits <a href="https://www.florentschneider.com">@Floé</a></em>
+</p>
+
+<h1 id="quel-vélo-jai-choisi">Quel vélo j’ai choisi?</h1>
+
+<p>Le vtt avec lequel j’ai commencé à faire du bikepacking en 2020 est un Orbea MX 27-30 d’entrée de gamme. C’est avec lui que j’ai fait mes premières épreuves dont le tour du massif vosgien. Son gros point fort (outre son prix relativement faible) est son groupe 3*10 qui permet de tirer du 22-36 : on peut mouiller à fond même dans les montées difficiles. C’est un point assez important dans les épreuves d’endurance. En plus, mouliner a tendance à limiter les tendinites au genou (un problème classique sur de longues distances). Après sur ce vélo les composants ne sont pas vraiment qualis et, surtout, le cadre alu est assez lourd. C’est aussi en tubetype (e.g. avec une chambre à air) ce qui génère un peu de frustration car les crevaisons sont généralement plus fréquentes.</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/alsace.jpg" style="display: block;">
+<img src="/assets/images/alsace.jpg" alt="alsace" width="400px" />
+</a>
+<em>Paysage des coteaux alsaciens à la fin de la première journée du tour de massif vosgien - je commence à réaliser que ca va mouliner sévère ^^</em>
+</p>
+
+<p>Golvine ayant un cannondale gravel topstone, je me suis déjà demandé si je ne pouvais pas lui emprunter pour certaines épreuves. Mais après quelques essais en weekend, je trouve que ce vélo est trop exigeant quand on pédale entre 15 et 17 heures par jour. Les descentes techniques me flinguent les avant bras (position,freins mécaniques et tubetype), mes cervicales me font mal après 6 ou 7 heures sur le vélo (position), et évidemment le ratio 30-36 est quand même trop exigeant pour moi quand ça monte sec. Ce serait possible de modifier le gravel pour avoir quelque chose de plus “monster-cross”… mais bon, ça reste le vélo de Golvine et si c’est pour transformer son gravel en vtt, je me dis qu’autant utiliser mon vtt directement.</p>
+
+<p>Dans mon cas donc, je me voyais plutôt faire l’épreuve en vtt. Ceci dit, certains participants choisissent le gravel pour faire la sea to peak et arrivent au bout. De manière générale, le consensus dit que vous pouvez utiliser n’importe quel vélo, le résultat dépendra de vos capacités et de votre connaissance de votre vélo et de vous-même. Un gars a même fini avec un vélo de route des années 80, ne me demandez pas comment il a fait !</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/ventoux.jpg" style="display: block;">
+<img src="/assets/images/ventoux.jpg" alt="ventoux" width="400px" />
+</a>
+<em>Le gravel en question et son pilote sur les pentes du Ventoux</em>
+</p>
+
+<p>Ayant vu les limites de mon orbea au tour du massif vosgien, j’ai choisi d’investir dans un vtt de moyenne gamme avec un bon cadre, avec l’idée que je pourrai changer certains composants par la suite. J’ai donc acheté un orbea Alma M50 en février. Je trouvais ça important d’acheter mon vélo quelques mois en avance de l’épreuve pour le roder et apprendre à le connaitre. Les grosses différences, à part la qualité des composants en général, par rapport a mon vtt entrée de gamme:</p>
+<ul>
+  <li>le poids nettement inférieur</li>
+  <li>la transmission mono-plateau (avec un 32-51 en max)</li>
+  <li>le tubeless (je l’ai monté en tubeless dès réception)</li>
+</ul>
+
+<p>La transmission mono avec un 32-51 sur des jantes 29” est un peu plus exigeante que sur mon ancien vtt mais elle trouve ses limites quand je suis de toutes façons à très faible vitesse et que pousser devient une alternative aussi efficace en terme de vitesse et d’énergie. Le confort du mono plateau est par contre très appréciable, plus aucune “charge mentale” pour savoir où on en est (particulièrement intéressant la nuit quand on y voit rien).</p>
+
+<p>Si je devais affiner mon setup je mettrais un plateau 30 (ou peut-être même 28?) devant pour gagner un peu en confort même si je perdrais en performance dans les sections “faux plat descendant”.
+Et je ne regrette pas du tout l’investissement du tubeless! Le tubeless supporte une pression plus faible donc plus de confort et en prime plus aucune crevaison bénigne. Par exemple, pendant la sea to peak, j’ai eu deux petites crevaisons dans la chaine des puys sur la même heure (petit stress) mais le préventif a fait le travail et j’ai pu continuer à rouler sans soucis.</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/morvan.jpg" style="display: block;">
+<img src="/assets/images/morvan.jpg" alt="morvan" width="400px" />
+</a>
+<em>Mon nouveau vtt au départ d’un week-end GTMC à travers le Morvan</em>
+</p>
+
+<h1 id="comment-me-suis-je-preparé">Comment me suis-je preparé?</h1>
+
+<p>De base, je suis assez sportif sans pour autant être un véritable athlète (data: sur zwift ma ftp tourne autour de 250w pour 72 kgs). Durant l’année scolaire je fais du handball au niveau départemental (1 entrainement et 1 match par semaine).</p>
+
+<p>Le but de ma préparation est avant tout de m’assurer que je vais pouvoir passer un bon moment. J’essaie de limiter le risque de certains déboires comme casser ma chaîne parce qu’elle est usée ou choper une tendinite dès le 1er jour.</p>
+
+<p>Je suis donc un programme de ce type:</p>
+<ul>
+  <li>Pendant les deux ou trois mois qui précèdent l’épreuve je fais 4 workouts sur zwift  par semaine (j’habite en appartement à Paris…). Golvine a eu la merveilleuse idée d’acheter un home trainer pendant le confinement. Je n’ai pas de programme précis, j’essaie de varier des séances longues (e.g. 1h15) avec des séances courtes (45min/1h) plus ou moins dures selon mes sensations. Je fais des courses aussi parfois.</li>
+  <li>En plus des séances zwift, je fais deux sorties vtt par mois pour travailler un peu le côté technique et vérifier que le vtt marche bien (ou que je peux gérer les pannes). A Paris c’est assez difficile de trouver des bons spots vtt proches, je vais en Chevreuse qui est mon spot préféré.</li>
+  <li>Avant une épreuve j’essaie aussi de faire deux ou trois week-ends dans les mêmes conditions (journées de 15/17 heures et nuits en bivouac). Pour me préparer à la Sea to Peak j’ai fait le segment Avalon-Bourbon Lancy et Clermont-Saint Chely d’Apcher de la GTMC (très belle trace par ailleurs). Ça me permet de bien tester le setup, le matériel et la réaction du corps. Et puis ça motive aussi à m’entrainer quand je vois les progrès qu’il me reste a faire pour ne pas trop être dans le dur!</li>
+</ul>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/sancy.jpg" style="display: block;">
+<img src="/assets/images/sancy.jpg" alt="sancy" width="400px" />
+</a>
+<em>Petit week-end sur la GTMC entre Clermont et Saint Chely - premier test sans tente</em>
+</p>
+
+<p>Outre la préparation sportive, j’arrête l’alcool dans les deux semaines qui précèdent l’épreuve et j’essaie d’avoir globalement une bonne hygiène de vie. J’y suis plutôt arrivé même si j’ai eu un enterrement de vie de garçon et deux week-ends familiaux (dont mariage) en juin.</p>
+
+<p>En terme d’entretien du vélo, deux semaines avant que l’épreuve ne commence je change les consommables (chaine, plaquette, boitier de pédalier et autres) et je fais deux sorties pour les roder. D’ailleurs je ne fais plus qu’une ou deux séances de zwift dans ces deux dernières semaines.</p>
+
+<p>Autre détail de préparation physique, mais important. je me mets de la crème Nok sur les fesses tous les soirs la semaine précédent l’épreuve.</p>
+
+<p>Si je devais améliorer cette préparation sans me prendre la tête, j’enleverais une séance de zwift hebdo que je remplacerais par une séance running+renforcement. J’ai eu des douleurs cervicales atroces à la fin de l’épreuve que je pense j’aurais pu éviter en faisant plus de renforcement musculaire. Si j’ai la chance d’avoir un gravel un jour, je pourrais peut-être remplacer certaines séances zwift en semaine par des sorties en extérieur.</p>
+
+<p>Enfin, je conseille de faire des sorties ou épreuves de bikepacking de plus en plus longues. Ça peut être dur de se lancer dans une épreuve de 14 jours sans avoir déjà testé 3 ou 7 jours. Mon problème à la main gauche sur le tour du massif vosgien est clairement dû à un gap en étant passé directement de deux jours à une semaine. Si je devais le refaire, je ferais une sortie/épreuve de 4 ou 5 jours entre les deux. Je dis cela pour deux raisons principales:</p>
+<ul>
+  <li>(cf section suivante) Les problèmes apparaissent au fur et à mesure et il est compliqué de les résoudre si on a pas pris le bon matériel dès le départ. Il vaut mieux apprendre à se connaître et à connaître son vélo progressivement.</li>
+  <li>Ce n’est pas parce qu’on prend du plaisir sur une sortie intense d’une journée, d’un week end ou sur du cyclotourisme qu’on va forcément aimer pédaler sur une trace engagée au moins 15 heures par jour pendant deux semaines.</li>
+</ul>
+
+<h1 id="quels-sont-les-problèmes-que-jai-rencontrés-pendant-lépreuve">Quels sont les problèmes que j’ai rencontrés pendant l’épreuve?</h1>
+
+<p>Un des plus gros problèmes physiques que j’ai rencontré sur les épreuves de longue distance concerne les nerfs des mains. Au tour du massif vosgien (7 jours au total), j’étais parti avec un cintre de vtt standard sans aucun adaptateur pour les mains (spirgrips, cornes ou prolongateurs). Sans même m’en rendre compte pendant l’épreuve, j’ai traumatisé les nerfs. J’ai mis une semaine à récupérer l’usage standard de ma main droite mais j’ai mis plusieurs mois pour ma main gauche. Quand l’épreuve s’est terminée et que j’ai découvert l’étendue des dégâts, j’ai consulté un médecin, et fait un EMG. Il m’a simplement conseillé du repos et si je ne récupère pas, une opération éventuelle du nerf ulnaire. Heureusement j’ai récupéré entièrement l’usage de ma main, mais seulement au bout de trois ou quatre mois.</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/doigts.jpg" style="display: block;">
+<img src="/assets/images/doigts.jpg" alt="doigts" width="400px" />
+</a>
+<em>Impossible de serrer les doigts...</em>
+</p>
+
+<p>Du coup j’avais testé plusieurs solutions (spirgrip et cornes), et à la sea to peak j’avais décidé de partir avec les spirgrips uniquement et de laisser les cornes à la maison. Pendant mes deux week-ends tests avec les spirgrips, tout s’était très bien passé.</p>
+
+<p>Malheureusement, les problèmes sont apparus après trois jours sur la sea to peak. Le troisième jour j’ai commencé à ressentir des fourmillements et douleurs aux doigts et le quatrième jour c’est devenu de plus en plus intense. J’ai pensé que je devrais abandonner parce qu’il me restait quand même encore une semaine au mieux. Heureusement, au CP2, a Poitiers, qui était au café/vélociste <a href="https://www.la-cyclerie-cafe.com/">La Cyclerie</a>, on m’a installé des cornes assez ergonomiques ce qui m’a permis de finir l’épreuve. Mes douleurs aux doigts se sont stabilisées à partir du 5e jour. A la fin de l’épreuve, ma main droite était intacte et j’avais perdu un peu de force à la main gauche que j’espère récupérer en un mois maxi. Rien à voir avec ma dernière expérience!</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/barends.jpg" style="display: block;">
+<img src="/assets/images/barends.jpg" alt="barends" width="400px" />
+</a>
+<em>Les bouts de plastique qui ont sauvé mes doigts - merci la Cyclerie!</em>
+</p>
+
+<p>Autre problème dû à ma mauvaise gestion de l’hygiène du cuissard. J’ai eu des petits boutons rouges qui sont apparus sur mes fesses au bout du 4e jour (il n’y a pas de photo ici mais une recherche google “bouton manque hygiène” donne une bonne idée du problème). Ils me piquaient légèrement, mais surtout c’était inquiétant au cas où ca dégénère. Je mettais de la crème Nivea trois fois par jour, je me lavais avec une lingette humide tous les soirs et je mettais du cetavlon (crème antiseptique) avant de dormir. Ceci dit, je changeais de cuissard uniquement tous les deux jours, je ne lavais pas mes fesses avec du savon, et je ne lavais pas mes cuissards non plus malgré de fortes transpirations sous la chaleur. Je me suis aperçu de mon erreur lors de ma première nuit en gite le quatrième soir et j’ai changé de stratégie. A partir de là j’ai lavé mon cuissard ainsi que mes fesses tous les jours (ou au pire tous les deux jours) avec du savon, et l’état de mes fesses s’est stabilisé après ça.</p>
+
+<p>J’ai eu quelques douleurs aux pieds lors de ma préparation dû à un mauvais réglage de cales mais vite résolu.</p>
+
+<p>J’ai aussi eu des douleurs aux genoux type tendinite à partir du 5e jour. Je me réveillais la nuit et il fallait que je tende la jambe pour apaiser la douleur. Pour éviter que ça ne dégénère je me suis beaucoup plus étiré (pendant la journée et le soir), j’ai redoublé d’attention sur l’hydratation et j’ai mouliné quand je le pouvais. La situation s’est stabilisée. Un participant avec qui j’ai beaucoup roulé - Seb - se massait le quadriceps avec une huile spéciale au moins une ou deux fois par jour.</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/trio.jpg" style="display: block;">
+<img src="/assets/images/trio.jpg" alt="trio" width="400px" />
+</a>
+<em>Les deux participants - Seb au milieu Flo à droite - avec qui j’ai le plus roulé</em>
+</p>
+
+<p>Et enfin le pire problème physique, que je n’ai pas réussi à résoudre, a été une douleur au niveau de mes cervicales. Elle est apparue le 6e jour de manière légère au début jusqu’à devenir vraiment handicapante dans les trois derniers jours. Cette douleur était probablement due à la position statique assise, au poids du casque, de mon petit sac a dos ainsi qu’aux descentes engagées. C’est surtout en descente que le problème apparaissait violemment. J’ai serré un peu les dents et j’ai tenu jusqu’à la fin. Je le regrette un peu parce que ca m’a gaché l’avant-derniere journée. Pour les prochaines fois je ferai plus de renforcement en haut du dos, je mettrai une gapette sous mon casque, je prendrai une sacoche de cadre à la place de mon sac à dos et je redresserai ma potence.</p>
+
+<p>Je n’ai pas eu de problème particulier lié aux fortes chaleurs (il a fait 40 degrés quand on était au bord de la Loire). Je me suis adapté en avançant très très lentement la journée, j’essayais de minimiser la transpiration. Dès que je passais dans un village je prenais un Perrier dans un café (faisons vivre les villages!) et je renouvelais l’eau de mes gourdes pour qu’elle soit fraîche (2L).</p>
+
+<p>J’étais aussi bien équipée pour le froid, et je n’ai pas eu de problèmes de ce côté là. Et il n’a pratiquement pas plu donc pas de problèmes de ce coté là non plus.</p>
+
+<h1 id="quel-matériel-jai-emporté-ou-pas-avec-moi">Quel matériel j’ai emporté (ou pas) avec moi?</h1>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/hotel.jpg" style="display: block;">
+<img src="/assets/images/hotel.jpg" alt="hotel" width="400px" />
+</a>
+<em>Hotel pour bikepacker</em>
+</p>
+
+<p>Voila la liste exhaustive du matériel que j’ai emportée.</p>
+
+<p>J’avais trois sacoches (selle, tube supérieur, et cintre) et un sac à dos.</p>
+
+<p>Dans la sacoche de selle (17L Ortlieb):</p>
+<ul>
+  <li>Duvet sea to summit spark sp3: très quali mais clairement un overkill l’été, il est fait pour les températures hivernales en altitude. Un sp1 aurait fait l’affaire (quitte à dormir en doudoune). Mais bon j’ai déjà le sp3, et j’ai trouvé qu’en racheter un juste pour la sea to peak c’était trop. On verra à l’avenir.</li>
+  <li>Matelas decathlon gonflable: au tour du massif vosgien j’avais dormi à même le sol, mais une nuit le froid avait pénétré le duvet et j’avais super mal dormi. Cette fois-ci avec le matelas ça ne s’est pas du tout produit, j’étais vraiment ravi.</li>
+  <li>Oreiller gonflable decat: léger, pas de volume, petit luxe qui me permet de bien dormir.</li>
+  <li>Je ne prends ni bivy ni tente. C’est l’été et les prévisions étaient ensoleillées. Si jamais il avait plu j’aurais pousse jusqu’au prochain village pour trouver un abri où dormir. Ce fut le cas à Nasbinals et Embrun. A Saint Savin le quatrième soir j’ai pris un gite mais j’ai croisé au matin un participant qui s’était intelligemment abrité dans un ancien quai de gare.</li>
+  <li>Doudoune: mon unique couche “chaude”</li>
+  <li>K-way imperméable: en cas de pluie+froid, je peux aussi mettre ma doudoune sous le kway</li>
+  <li>Cuissard/t-shirt/chaussettes de rechange</li>
+  <li>Gants longs (mais légers)</li>
+  <li>Masque covid</li>
+  <li>Pochette en plastique contenant: un gps de secours (etrex 20x comme le principal), chargeur avec 3 ports usbs, multiples câbles usbs, powerbank 10.000mAh</li>
+  <li>Pochette en plastique contenant : brosse à dents, dentifrice, cetavlon, médicaments (doliprane, anti inflammatoire, spasfon), couverture de survie, boules quies, savon</li>
+</ul>
+
+<p>Dans la petite sacoche du tube supérieur (1L Restrap):</p>
+<ul>
+  <li>Crème hydratante Nivea</li>
+  <li>Liquide hydroalcoolique</li>
+  <li>Crème solaire</li>
+  <li>Pastilles micropur désinfectant eau</li>
+  <li>Lingettes biodégradables</li>
+  <li>Mouchoirs</li>
+</ul>
+
+<p>Dans la sacoche de cintre (3L Ortlieb):</p>
+<ul>
+  <li>Pochette en plastique contenant: multi tools, 3 cles a pans (4, 5, et 6 parce que les mêmes clés sur le multi tool sont quand meme super relous à utiliser), deux paires de plaquettes de freins (lecon du tour du massif vosgien ou j’ai du trouve un cyclo en urgence), kit de mèches pour tubeless, 2 maillons de chaine de rechange, de l’huile pour la transmission, du scotch gras noir, une clé à molette réglable.</li>
+  <li>Patte de dérailleur</li>
+  <li>Couteau suisse</li>
+  <li>Une assiette pliable (utile pour pouvoir se faire une salade à partir de conserves, par exemple)</li>
+  <li>Le carnet tampon de la sea to peak</li>
+  <li>(Au minimum) 2 piles de rechange pour le etrex</li>
+  <li>Lampe frontale</li>
+  <li>A manger</li>
+</ul>
+
+<p>Sur le vélo:</p>
+<ul>
+  <li>Une chambre à air directement attachée au cadre</li>
+  <li>Deux gourdes de 1L</li>
+  <li>Une pompe de secours</li>
+  <li>Le gps etrex 20x (monté sur une poche decathlon)</li>
+  <li>Une lampe avant lezyne 1300 xxl</li>
+  <li>Une lampe arrière lezyne zecto max (à bannir de mon setup). Comme au tour du massif vosgien, le caoutchouc s’est cassé pendant la sea-to-peak et j’ai perdu ma lampe arrière avant même d’arriver au CP1. Heureusement, le <a href="https://www.facebook.com/monkeybikebar/">Monkey bar</a> à Blain m’a vendu une lampe arrière avec une autonomie similaire, ils me l’ont attaché de manière ingénieuse au hauban, et elle n’a pas bougé du voyage. J’ai fini par récupérer ma lampe lezyne perdue à la fin de l’épreuve car un participant au top la retrouvera et la remettra à Fred, l’organisateur. Merci!</li>
+  <li>Une sonnette (useless à mon sens – les seules fois où je pourrais l’utiliser je préfère dire bonjour/pardon – mais obligatoire pour l’épreuve)</li>
+</ul>
+
+<p>Sur moi:</p>
+<ul>
+  <li>Cuissard/T-shirt/Chaussettes/Casque</li>
+  <li>Chaussures: j’ai des giro entrée de gamme type sport/rando. Elles sont au top, super respirantes, super confort même quand je pousse le vélo dans les sentiers type GR (il y en a quelques uns à la sea to peak ^^). Probablement très loin d’être “performantes” mais top confort pour le bikepacking je pense.</li>
+  <li>Mitaines: c’est difficile de savoir comment mes mains auraient réagi sans elles. En tous cas je pense qu’elles ont soulagé quand même les nerfs et ont rendu l’épreuve plus confortable (peut-etre juste un effet placebo?)</li>
+  <li>Coupe vent léger: parfait quand il fait frais, quand il y a une longue descente. Très respirant. Imperméable aux pluies légères mais pas aux grosses pluies.</li>
+  <li>Sangle jaune de visibilité</li>
+  <li>Lunettes soleil</li>
+  <li>Téléphone et mini portefeuille</li>
+</ul>
+
+<p>J’ai aussi roulé avec un sac decathlon de trail de 10L, il était vide au départ. Dans les étapes ou on croisait peu de villages je pouvais stocker un peu de nourriture supplémentaire dedans.</p>
+
+<p>Honnêtement si je devais refaire mon setup, je changerais le sac à dos avec une sacoche de cadre. J’ajouterais éventuellement des prolongateurs (à voir pour bien les régler) pour soulager le fessier et les mains. J’ajouterais une gapette et une toute petite serviette absorbante style décat (j’utilisais mon t shirt propre pour me sécher, heureusement il faisait super sec mais en cas d’humidité je pense que c’est vite galère).</p>
+
+<h1 id="dans-quel-état-desprit-jai-abordé-cette-sea-to-peak">Dans quel état d’esprit j’ai abordé cette sea to peak?</h1>
+
+<p>J’aime le vtt engagé mais aussi le cyclotourisme. Pendant ces deux semaines de vacances, je voulais vivre une aventure à travers la France, me débrouiller pour m’alimenter, dormir, voir les paysages changer dans la même journée. Cela correspond bien à la trace de la sea to peak qui alterne passages difficiles et sections plus roulantes. C’est une facette de l’épreuve qui me plait vraiment. 
+Finalement j’ai dormi 6 fois en bivouac, 2 fois en gîte et 2 fois en camping (dont 1 fois dans la laverie du camping à cause de la pluie).</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/creuse.jpg" style="display: block;">
+<img src="/assets/images/creuse.jpg" alt="creuse" width="400px" />
+</a>
+<em>Le plateau des millevaches et la Creuse resteront parmi les paysages les plus émouvants du parcours</em>
+</p>
+
+<p>J’espérais aussi me dépasser, physiquement et moralement, et j’avais l’objectif de finir en moins de 11j (juste finir m’aurait rendu heureux et fier mais je m’étais mis cet objectif supplémentaire je ne sais pas trop pourquoi). Ceci dit, je ne voulais pas que le dépassement de soi prenne trop le pas sur mon plaisir, au risque de craquer. Pour ça j’ai essayé de ne pas me mettre trop trop dans le rouge pendant l’épreuve.</p>
+
+<p>Je suis plutôt solitaire sur le vélo, mais je suis vraiment très heureux de retrouver les autres participants au briefing de départ, aux commerces, aux checkpoints etc…. C’est aussi quelque chose que je viens chercher sur ce genre d’épreuve, plutôt que de compléter la trace en individuel.</p>
+
+<h1 id="quest-ce-que-jai-aimé-moins-aimé">Qu’est-ce que j’ai aimé? moins aimé?</h1>
+
+<p>Je remercie vraiment l’organisation pour la trace! Elle correspond exactement à ce que je recherche. Dans une même journée on a pu voir des paysages et des régions très différentes. Par example, le sixième jour j’ai traversé la creuse, la chaine des puys et le cézallier. La trace est difficile, mais elle a du sens et elle est plutôt bien pensée… C’est rare (même si ça arrive) que je me dise “mais pourquoi ils nous font passer par là?”. Des passages plus roulants alternent avec des sections techniques, ce qui fait qu’on a rarement des journées entières difficiles. Je sais que je lutte (et donc peste) un peu plus quand il faut pousser sur des sentiers. Heureusement, ce ne fut le cas qu’en Ardeche et sur la section de Luc-en-Diois à Embrun. L’enchaînement chaîne des puys-cézallier-massif cantalien est aussi une difficulté notable.</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/ardeche.jpg" style="display: block;">
+<img src="/assets/images/ardeche.jpg" alt="ardeche" width="400px" />
+</a>
+<em>Grosse souffrance sur les hauteurs de l’Ardèche</em>
+</p>
+
+<p>Le ratio asphalte/chemin/sentier me correspond bien: si il y a trop de sentiers, ça me demande trop de concentration et je ne peux pas revasser; à l’inverse si c’est trop roulant ou asphalte, j’ai tendance à m’ennuyer. Comme toujours, il y a sûrement moyen d’améliorer la trace mais je trouve qu’elle est déjà très bien comme ça.
+Par ailleurs j’ai beaucoup utilisé l’application komoot, et c’est vraiment top pour savoir dans les grosses lignes ce qui nous attend en termes de dénivelé et de type de surface.</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/plomb.jpg" style="display: block;">
+<img src="/assets/images/plomb.jpg" alt="plomb" width="400px" />
+</a>
+<em>Descente du Plomb du Cantal, on laisse un passage engagé derrière nous - crédits @Florent Vilboux</em>
+</p>
+
+<p>L’autre chose que j’ai aimé, c’est partager l’expérience avec les autres participants. Le briefing la veille du départ est toujours un moment très sympa ou on peut rencontrer les autres participants. C’est un moment clé qui ne se fait pas forcément sur les épreuves de 2 jours, malheureusement. Le premier jour j’ai côtoyé pas mal de monde mais à partir du troisième jour j’ai surtout roulé avec trois autres participants. J’ai même partagé une chambre en gite avec Seb le quatrième soir et on s’est posés au camping à Nasbinals le soir du septième jour. L’ambiance n’est pas “compétition”, les gens viennent avant tout pour prendre du plaisir (et se dépasser éventuellement). A l’arrivée dans le cadre magnifique de Saint Veran, on a passé 24h avec certains des participants avec qui j’avais roulé. Après deux semaines d’effort on a pu se venger sur la bière et des plats bien copieux. Ça nous a permis de revenir dans le monde réel tranquillement après la course. J’espère en revoir certains lors d’autres événements!</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/brochette.jpg" style="display: block;">
+<img src="/assets/images/brochette.jpg" alt="brochette" width="400px" />
+</a>
+<em>Brochette de vainqueurs avec le t-shirt sea to peak chèrement acquis - Lucien Mario Flo et moi</em>
+</p>
+
+<p>Le tracking via solustop est vraiment pas mal, l’actualisation est correcte. Ma famille et mes amis ont pu me suivre tout au long de l’épreuve et m’ont bien soutenu.</p>
+
+<p>L’unique point d’amélioration que je vois pour l’organisation c’est d’etre plus présente sur la trace (ce n’était pas le cas par manque de moyens dû au manque de participants je crois cette année). Il est difficile d’être à plusieurs endroits sur la trace quand c’est une traversée plutôt qu’une boucle, c’est sûr.</p>
+
+<p>En conclusion, cette épreuve était une super expérience ou j’ai pris énormément de plaisir. J’attends à présent l’arrivée d’une petite fille mais je sais déjà que dans les années qui arrivent j’aurai envie de renouveler l’expérience (sur la gravel tro breizh ou la french divide?).</p>
+
+<p style="text-align: center; font-size: 15px;">
+<a href="/assets/images/saintveran.jpg" style="display: block;">
+<img src="/assets/images/saintveran.jpg" alt="saintveran" width="400px" />
+</a>
+<em>L’instigatrice de tout ca lorsqu’elle m’a parlé du gravelman Paris en 2020 - crédits @Seb Morin boostcycle</em>
+</p>]]></content><author><name></name></author><category term="bikepacking" /><summary type="html"><![CDATA[En juillet 2022 j’ai eu la chance de participer à la sea to peak et je souhaitais faire ce petit retour d’expérience pour faire connaître cette épreuve, permettre à ceux qui veulent de savoir si elle correspond à leurs attentes et pourquoi pas les aider à s’y préparer.]]></summary></entry></feed>
