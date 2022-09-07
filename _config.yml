@@ -21,10 +21,12 @@
 title: Blog
 author: ""
 email: aurelien.nober@gmail.com
-description:
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.aureliennober.com" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: "aurelien.nober"
 instagram_username: "aureliennober"
+komoot_id: "1002306387279"
 
 # Build settings
 theme: minima
