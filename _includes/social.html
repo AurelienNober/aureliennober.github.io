@@ -11,7 +11,7 @@
             href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}" target="_blank"><svg class="svg-icon">
                 <use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use>
             </svg> <span class="username">{{ site.instagram_username| escape }}</span></a></li>{%- endif -%}
-    {%- if site.komoot_id -%}<li><a href="https://www.komoot.com/user/{{ site.komoot_id| cgi_escape | escape }}">
+    {%- if site.komoot_id -%}<li><a href="https://www.komoot.com/user/{{ site.komoot_id| cgi_escape | escape }}" target="_blank">
         <span class="username">Komoot</span></a></li>
     {%- endif -%}
 </ul>
